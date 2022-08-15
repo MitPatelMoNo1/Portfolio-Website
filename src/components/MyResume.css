@@ -1,0 +1,21 @@
+.resume_container{
+    justify-content:center;
+    display:flex;
+    height:100vh;
+}
+
+.resume_wrapper{
+    width: 750px;
+    height: 1000px;
+    box-shadow: 0 15px 25px rgba(0,0,0,.6);
+    margin-top: 3%;
+    align-items: center;
+    border-radius: 10px;
+    text-align: center;
+    background-image: url("/public/images/Mit-Resume.jpg");
+}
+
+.download{
+    text-align: center;
+    margin-top: 50px;
+}

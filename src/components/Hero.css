@@ -1,0 +1,25 @@
+.hero-container{
+    background: url(https://www.teahub.io/photos/full/289-2897501_dark-ocean.jpg) center center/cover no-repeat;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,0.4);
+    object-fit: contain;   
+    border-bottom: 3px solid gray;
+}
+
+.important-btn{
+    margin: 20px;
+}
+
+.hero-container > p{
+    color: aliceblue;
+    font-size: 40px;
+    margin-top: 16%;
+}
+
+.important-btn .btn {
+    margin: 5px;
+}

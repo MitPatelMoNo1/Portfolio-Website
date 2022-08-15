@@ -1,0 +1,44 @@
+
+.wrapper2 {
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    background: whitesmoke;
+    box-shadow: 0 15px 25px rgba(0,0,0,.6);
+    margin-left: 5%;
+    align-items: center;
+    border-radius: 10px;
+    text-align: center;
+    }
+
+.git_links{
+    color: black;
+    margin: 50px;
+    font-size: 50px;
+    align-items: center;
+}
+
+p{
+    font-size: large;
+    color: black;
+    margin-top: 12px;
+}
+
+.stack{
+    font-size: large;
+    color: teal;
+    margin-bottom: 15px;
+}
+
+.container{
+    justify-content:center;
+    align-items:flex-start;
+    display:flex;
+    height:100vh;
+    flex-wrap: wrap;
+}
+.title{
+    margin-left: 49%;
+    margin-bottom: 5%;
+    
+}
